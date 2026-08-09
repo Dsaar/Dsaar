@@ -29,4 +29,4 @@ I enjoy turning ideas into experiences that feel dynamic and engaging — from i
 
 ---
 
-📫 **Connect with me:** [Portfolio](#) · [LinkedIn](#) · [Email](mailto:your.email@example.com)
+📫 **Connect with me:** [Portfolio](https://danielsaar-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/daniel-josh-saar) · [Email](danieljoshuasaar@gmail.com)
