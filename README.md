@@ -1,4 +1,4 @@
-# Hey, I'm Dani Saar 👋
+# Hey, I'm Daniel Saar 👋
 
 ### **Creative Developer · 3D Web · Interactive Experiences**
 
